@@ -123,5 +123,17 @@ ul li{
     nav{
       height: 5rem;
     }
+
+}
+
+@media (min-width: 375px) {   
+    
+  .apac_logo{
+    max-width: 18rem;;
+  }
+
+  .sticky-top-title{
+    top: 6rem;
+  }
 }
 
